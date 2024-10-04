@@ -1,7 +1,7 @@
 # Healthcare App Frontend
 
 ## Overview
-This is the frontend of a healthcare mobile application developed using **Android Studio**. The app provides a streamlined interface for users to create accounts, log in, and access various healthcare-related services from the homepage. It serves as the user interface for functionalities such as elderly care, child care, and more.
+This is the frontend of a healthcare mobile application developed using **Android Studio**. The app is built with **Java** and **XML**, providing an intuitive interface for users to create accounts, log in, and access various healthcare-related services from the homepage. It serves as the user interface for functionalities such as elderly care, child care, and more.
 
 ## Features
 - **User Registration**:
@@ -25,7 +25,7 @@ This is the frontend of a healthcare mobile application developed using **Androi
 
 ## Project Structure
 - **Android Studio**: Development platform used for creating and testing the app.
-- **Kotlin/XML**: Used for coding the app logic and designing the user interface.
+- **Java/XML**: Used for coding the app logic and designing the user interface.
 
 ## How to Use
 1. Launch the app to access the welcome page.
