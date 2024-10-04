@@ -17,6 +17,7 @@ This is the frontend of a healthcare mobile application developed using **Androi
     - **Child Care**
     - **Training & Certification**
     - **About Us**
+    - **Contact**
   - Each option leads to a dedicated page providing more information and interaction for the selected service.
 
 - **Logout Functionality**:
